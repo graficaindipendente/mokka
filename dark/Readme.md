@@ -17,7 +17,6 @@ Inspired by [Earthsong](https://github.com/daylerees/colour-schemes/blob/master/
 | Magenta | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=d356b6" width="20" height="20" alt=""> #d356b6  | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=ff4ad8" width="20" height="20" alt=""> #ff4ad8  |
 | Cyan    | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=31959c" width="20" height="20" alt=""> #31959c  | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=3ab9c2" width="20" height="20" alt=""> #3ab9c2  |
 | White   | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=c4a48a" width="20" height="20" alt=""> #c4a48a | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=f3ebd4" width="20" height="20" alt=""> #f3ebd4 |
-
 | Foreground | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=ebd0b7" width="20" height="20" alt=""> #ebd0b7 | |
 | Background | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=2f251d" width="20" height="20" alt=""> #2f251d | |
 | Bold    | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=95cc5e" width="20" height="20" alt=""> #95cc5e | |
