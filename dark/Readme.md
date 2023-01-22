@@ -1,16 +1,9 @@
-# Squirrelsong Dark color theme
+# Mokka color theme
 
 ![Squirrelsong dark terminal color theme](squirrelsong_terminal.png)
 
 Inspired by [Earthsong](https://github.com/daylerees/colour-schemes/blob/master/README.md#earthsong) Sublime Text scheme by [Dayle Rees](https://github.com/daylerees).
 
-## Terminal.app
-
-Install [Squirrelsong.terminal](https://raw.githubusercontent.com/sapegin/squirrelsong/master/Squirrelsong.terminal).
-
-## iTerm2
-
-Install [Squirrelsong.itermcolors](https://raw.githubusercontent.com/sapegin/squirrelsong/master/Squirrelsong.itermcolors)
 
 ## Colors
 
@@ -24,8 +17,10 @@ Install [Squirrelsong.itermcolors](https://raw.githubusercontent.com/sapegin/squ
 | Magenta | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=d356b6" width="20" height="20" alt=""> #d356b6  | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=ff4ad8" width="20" height="20" alt=""> #ff4ad8  |
 | Cyan    | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=31959c" width="20" height="20" alt=""> #31959c  | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=3ab9c2" width="20" height="20" alt=""> #3ab9c2  |
 | White   | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=c4a48a" width="20" height="20" alt=""> #c4a48a | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=f3ebd4" width="20" height="20" alt=""> #f3ebd4 |
-| Foreground | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=97846f" width="20" height="20" alt=""> #97846f | |
+
+| Foreground | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=ebd0b7" width="20" height="20" alt=""> #ebd0b7 | |
 | Background | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=2f251d" width="20" height="20" alt=""> #2f251d | |
-| Bold    | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=ffffff" width="20" height="20" alt=""> #ffffff | |
-| Selection | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=443527" width="20" height="20" alt=""> #443527 | |
-| Selected Text | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=97846f" width="20" height="20" alt=""> #97846f | |
+| Bold    | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=95cc5e" width="20" height="20" alt=""> #95cc5e | |
+| Links    | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=ff8956" width="20" height="20" alt=""> #ff8956 | |
+| Selection | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=db784d" width="20" height="20" alt=""> #db784d | |
+| Selected Text | <img src="http://www.thecolorapi.com/id?format=svg&named=false&hex=000000" width="20" height="20" alt=""> #000000 | |
